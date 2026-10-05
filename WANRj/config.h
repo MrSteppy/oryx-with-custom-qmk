@@ -1,4 +1,4 @@
-#define TAP_CODE_DELAY 20 
+#define TAP_CODE_DELAY 100 
 
 #define CHORDAL_HOLD
 #undef DEBOUNCE
