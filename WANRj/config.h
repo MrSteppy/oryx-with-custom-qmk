@@ -13,7 +13,7 @@
 
 #define USB_SUSPEND_WAKEUP_DELAY 0
 #define CAPS_LOCK_STATUS
-#define SERIAL_NUMBER "WANRj/Oaeg7r"
+#define SERIAL_NUMBER "WANRj/galbye"
 #define LAYER_STATE_16BIT
 #define COMBO_COUNT 35
 
