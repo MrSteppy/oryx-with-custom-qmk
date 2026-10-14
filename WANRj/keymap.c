@@ -27,69 +27,69 @@ enum tap_dance_codes {
   DANCE_1,
 };
 
-#define DUAL_FUNC_0 LT(11, KC_F8)
-#define DUAL_FUNC_1 LT(1, KC_F7)
-#define DUAL_FUNC_2 LT(11, KC_T)
-#define DUAL_FUNC_3 LT(1, KC_F23)
-#define DUAL_FUNC_4 LT(9, KC_F21)
-#define DUAL_FUNC_5 LT(1, KC_F8)
-#define DUAL_FUNC_6 LT(15, KC_L)
-#define DUAL_FUNC_7 LT(2, KC_F23)
-#define DUAL_FUNC_8 LT(4, KC_5)
-#define DUAL_FUNC_9 LT(3, KC_Q)
-#define DUAL_FUNC_10 LT(2, KC_F21)
-#define DUAL_FUNC_11 LT(4, KC_F17)
-#define DUAL_FUNC_12 LT(2, KC_F16)
-#define DUAL_FUNC_13 LT(13, KC_F6)
-#define DUAL_FUNC_14 LT(11, KC_F23)
-#define DUAL_FUNC_15 LT(2, KC_S)
-#define DUAL_FUNC_16 LT(15, KC_I)
-#define DUAL_FUNC_17 LT(9, KC_U)
-#define DUAL_FUNC_18 LT(7, KC_F20)
-#define DUAL_FUNC_19 LT(1, KC_L)
-#define DUAL_FUNC_20 LT(12, KC_Q)
-#define DUAL_FUNC_21 LT(6, KC_I)
-#define DUAL_FUNC_22 LT(3, KC_9)
-#define DUAL_FUNC_23 LT(2, KC_I)
-#define DUAL_FUNC_24 LT(14, KC_F15)
-#define DUAL_FUNC_25 LT(14, KC_F1)
-#define DUAL_FUNC_26 LT(11, KC_S)
-#define DUAL_FUNC_27 LT(15, KC_9)
-#define DUAL_FUNC_28 LT(1, KC_N)
-#define DUAL_FUNC_29 LT(14, KC_F10)
-#define DUAL_FUNC_30 LT(14, KC_7)
-#define DUAL_FUNC_31 LT(10, KC_B)
-#define DUAL_FUNC_32 LT(10, KC_4)
-#define DUAL_FUNC_33 LT(2, KC_F13)
-#define DUAL_FUNC_34 LT(4, KC_F18)
-#define DUAL_FUNC_35 LT(15, KC_K)
-#define DUAL_FUNC_36 LT(6, KC_7)
-#define DUAL_FUNC_37 LT(1, KC_Y)
-#define DUAL_FUNC_38 LT(6, KC_Y)
-#define DUAL_FUNC_39 LT(1, KC_9)
-#define DUAL_FUNC_40 LT(15, KC_X)
-#define DUAL_FUNC_41 LT(7, KC_F9)
-#define DUAL_FUNC_42 LT(1, KC_F)
-#define DUAL_FUNC_43 LT(2, KC_R)
-#define DUAL_FUNC_44 LT(3, KC_F12)
-#define DUAL_FUNC_45 LT(14, KC_L)
-#define DUAL_FUNC_46 LT(5, KC_F23)
-#define DUAL_FUNC_47 LT(12, KC_F4)
-#define DUAL_FUNC_48 LT(4, KC_A)
-#define DUAL_FUNC_49 LT(3, KC_G)
-#define DUAL_FUNC_50 LT(11, KC_N)
-#define DUAL_FUNC_51 LT(5, KC_W)
-#define DUAL_FUNC_52 LT(2, KC_E)
-#define DUAL_FUNC_53 LT(4, KC_I)
-#define DUAL_FUNC_54 LT(1, KC_E)
-#define DUAL_FUNC_55 LT(4, KC_F16)
-#define DUAL_FUNC_56 LT(10, KC_F13)
-#define DUAL_FUNC_57 LT(15, KC_F8)
-#define DUAL_FUNC_58 LT(14, KC_I)
-#define DUAL_FUNC_59 LT(12, KC_F18)
-#define DUAL_FUNC_60 LT(13, KC_F10)
-#define DUAL_FUNC_61 LT(3, KC_F7)
-#define DUAL_FUNC_62 LT(14, KC_X)
+#define DUAL_FUNC_0 LT(14, KC_W)
+#define DUAL_FUNC_1 LT(7, KC_F)
+#define DUAL_FUNC_2 LT(13, KC_F21)
+#define DUAL_FUNC_3 LT(15, KC_Z)
+#define DUAL_FUNC_4 LT(5, KC_R)
+#define DUAL_FUNC_5 LT(12, KC_F9)
+#define DUAL_FUNC_6 LT(4, KC_F3)
+#define DUAL_FUNC_7 LT(14, KC_F16)
+#define DUAL_FUNC_8 LT(9, KC_F8)
+#define DUAL_FUNC_9 LT(10, KC_F7)
+#define DUAL_FUNC_10 LT(15, KC_4)
+#define DUAL_FUNC_11 LT(11, KC_5)
+#define DUAL_FUNC_12 LT(15, KC_F17)
+#define DUAL_FUNC_13 LT(8, KC_F13)
+#define DUAL_FUNC_14 LT(12, KC_F6)
+#define DUAL_FUNC_15 LT(1, KC_F10)
+#define DUAL_FUNC_16 LT(11, KC_F20)
+#define DUAL_FUNC_17 LT(10, KC_E)
+#define DUAL_FUNC_18 LT(12, KC_Q)
+#define DUAL_FUNC_19 LT(11, KC_F6)
+#define DUAL_FUNC_20 LT(3, KC_F22)
+#define DUAL_FUNC_21 LT(14, KC_F)
+#define DUAL_FUNC_22 LT(2, KC_Q)
+#define DUAL_FUNC_23 LT(13, KC_F10)
+#define DUAL_FUNC_24 LT(3, KC_F4)
+#define DUAL_FUNC_25 LT(6, KC_X)
+#define DUAL_FUNC_26 LT(15, KC_A)
+#define DUAL_FUNC_27 LT(3, KC_Z)
+#define DUAL_FUNC_28 LT(4, KC_F18)
+#define DUAL_FUNC_29 LT(6, KC_R)
+#define DUAL_FUNC_30 LT(4, KC_5)
+#define DUAL_FUNC_31 LT(13, KC_K)
+#define DUAL_FUNC_32 LT(14, KC_F24)
+#define DUAL_FUNC_33 LT(9, KC_X)
+#define DUAL_FUNC_34 LT(13, KC_F6)
+#define DUAL_FUNC_35 LT(9, KC_1)
+#define DUAL_FUNC_36 LT(2, KC_H)
+#define DUAL_FUNC_37 LT(8, KC_Q)
+#define DUAL_FUNC_38 LT(6, KC_3)
+#define DUAL_FUNC_39 LT(10, KC_F16)
+#define DUAL_FUNC_40 LT(2, KC_B)
+#define DUAL_FUNC_41 LT(14, KC_V)
+#define DUAL_FUNC_42 LT(11, KC_F19)
+#define DUAL_FUNC_43 LT(1, KC_D)
+#define DUAL_FUNC_44 LT(10, KC_O)
+#define DUAL_FUNC_45 LT(1, KC_F3)
+#define DUAL_FUNC_46 LT(13, KC_O)
+#define DUAL_FUNC_47 LT(11, KC_K)
+#define DUAL_FUNC_48 LT(10, KC_F6)
+#define DUAL_FUNC_49 LT(8, KC_V)
+#define DUAL_FUNC_50 LT(12, KC_F4)
+#define DUAL_FUNC_51 LT(3, KC_7)
+#define DUAL_FUNC_52 LT(3, KC_F7)
+#define DUAL_FUNC_53 LT(6, KC_F20)
+#define DUAL_FUNC_54 LT(15, KC_L)
+#define DUAL_FUNC_55 LT(9, KC_U)
+#define DUAL_FUNC_56 LT(12, KC_F21)
+#define DUAL_FUNC_57 LT(7, KC_4)
+#define DUAL_FUNC_58 LT(7, KC_L)
+#define DUAL_FUNC_59 LT(5, KC_U)
+#define DUAL_FUNC_60 LT(3, KC_Y)
+#define DUAL_FUNC_61 LT(6, KC_Y)
+#define DUAL_FUNC_62 LT(14, KC_Q)
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   [0] = LAYOUT_voyager(
@@ -145,7 +145,14 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT,                                 LGUI(KC_1),     LGUI(KC_2),     LGUI(KC_3),     LGUI(KC_4),     LGUI(KC_5),     KC_PAUSE,       
     KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT,                                 KC_PAGE_UP,     DUAL_FUNC_58,   KC_UP,          DUAL_FUNC_59,   KC_DELETE,      KC_PSCR,        
     KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT,                                 KC_PGDN,        KC_LEFT,        KC_DOWN,        KC_RIGHT,       KC_INSERT,      KC_RIGHT_SHIFT, 
-    KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT,                                 QK_LLCK,        DUAL_FUNC_60,   DUAL_FUNC_61,   DUAL_FUNC_62,   KC_TRANSPARENT, KC_RIGHT_CTRL,  
+    KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT,                                 QK_LLCK,        DUAL_FUNC_60,   DUAL_FUNC_61,   DUAL_FUNC_62,   TT(8),          KC_RIGHT_CTRL,  
+                                                    KC_TRANSPARENT, KC_TRANSPARENT,                                 KC_TRANSPARENT, KC_TRANSPARENT
+  ),
+  [8] = LAYOUT_voyager(
+    KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT,                                 KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, 
+    KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT,                                 KC_MS_WH_UP,    KC_TRANSPARENT, KC_MS_UP,       KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, 
+    KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT,                                 KC_MS_WH_DOWN,  KC_MS_LEFT,     KC_MS_DOWN,     KC_MS_RIGHT,    KC_TRANSPARENT, KC_TRANSPARENT, 
+    KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT,                                 KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, KC_TRANSPARENT, 
                                                     KC_TRANSPARENT, KC_TRANSPARENT,                                 KC_TRANSPARENT, KC_TRANSPARENT
   ),
 };
@@ -277,7 +284,9 @@ const uint8_t PROGMEM ledmap[][RGB_MATRIX_LED_COUNT][3] = {
 
     [6] = { {86,255,96}, {86,253,192}, {86,253,192}, {86,253,192}, {86,253,192}, {86,253,192}, {142,235,102}, {142,235,102}, {142,235,102}, {129,230,73}, {129,230,73}, {142,235,102}, {129,230,73}, {129,230,73}, {142,235,102}, {129,230,73}, {142,235,102}, {129,230,73}, {150,255,85}, {150,255,85}, {150,255,85}, {150,255,85}, {150,255,85}, {150,255,85}, {196,154,61}, {198,183,43}, {86,255,96}, {86,255,96}, {86,255,96}, {86,255,96}, {86,255,96}, {86,255,96}, {142,235,102}, {142,235,102}, {142,235,102}, {142,235,102}, {142,235,102}, {142,235,102}, {129,230,73}, {150,255,85}, {129,230,73}, {129,230,73}, {129,230,73}, {129,230,73}, {150,255,85}, {129,230,73}, {150,255,85}, {150,255,85}, {150,255,85}, {0,255,136}, {198,183,43}, {196,154,61} },
 
-    [7] = { {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {86,255,255}, {86,255,255}, {86,255,255}, {86,255,255}, {86,255,255}, {139,231,187}, {86,255,255}, {86,255,136}, {0,0,255}, {86,255,136}, {0,255,136}, {139,231,187}, {86,255,255}, {0,0,255}, {0,0,255}, {0,0,255}, {86,255,255}, {86,255,136}, {20,255,255}, {199,186,123}, {0,0,0}, {199,186,123}, {0,0,0}, {86,255,136}, {0,0,0}, {0,0,0} },
+    [7] = { {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {86,255,255}, {86,255,255}, {86,255,255}, {86,255,255}, {86,255,255}, {139,231,187}, {86,255,255}, {86,255,136}, {0,0,255}, {86,255,136}, {0,255,136}, {139,231,187}, {86,255,255}, {0,0,255}, {0,0,255}, {0,0,255}, {86,255,255}, {86,255,136}, {20,255,255}, {199,186,123}, {199,186,123}, {199,186,123}, {20,255,255}, {86,255,136}, {0,0,0}, {0,0,0} },
+
+    [8] = { {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {86,255,255}, {0,0,0}, {0,0,255}, {0,0,0}, {0,0,0}, {0,0,0}, {86,255,255}, {0,0,255}, {0,0,255}, {0,0,255}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {0,0,0}, {20,255,255}, {0,0,0}, {0,0,0}, {0,0,0} },
 
 };
 
@@ -326,6 +335,9 @@ bool rgb_matrix_indicators_user(void) {
         break;
       case 7:
         set_layer_color(7);
+        break;
+      case 8:
+        set_layer_color(8);
         break;
      default:
         if (rgb_matrix_get_flags() == LED_FLAG_NONE) {
